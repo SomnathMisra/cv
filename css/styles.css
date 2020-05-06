@@ -1,0 +1,151 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5.62rem;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+a {
+    color: #11999e;
+}
+
+hr {
+    border: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 10px;
+    color: #eaf6f6;
+}
+
+p {
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    ;
+}
+
+.web-developer {
+    font-weight: normal;
+    line-height: 2;
+}
+
+.profile {
+    margin: 100px auto 100px auto;
+}
+
+.profile img {
+    width: 25%;
+}
+
+.profile p {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.skills {
+    margin: 100px auto 100px auto;
+}
+
+.skill-row {
+    display: inline-block;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+.skill-row img {
+    width: 25%;
+}
+
+.skill-row .web-design-img {
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row .seo-img {
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+
+.contact-me p {
+    width: 50%;
+    margin: 40px auto;
+}
+
+.contact-me a {
+    padding: 10px 20px;
+    background: linear-gradient(to bottom, #11cdd4, #11999e);
+    color: #ffffff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Montserrat;
+    margin: 50px auto;
+    font-size: 20px;
+}
+
+.contact-me a:hover {
+    background: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 20px 0;
+    line-height: 2;
+}
+
+.bottom-container a {
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Montserrat;
+}
+
+.bottom-container a:hover {
+    color: #ffffff;
+}
+
+.bottom-container p {
+    color: white;
+    margin: 0;
+}
